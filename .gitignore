@@ -1,0 +1,18 @@
+# Local study plans, notes, and learning context (root only)
+/*.md
+
+# Build outputs and captured traffic
+**/exec
+**/exec_*
+*.o
+*.out
+*.dSYM/
+*.log
+*_logs.txt
+*.pcap
+*.pcapng
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
